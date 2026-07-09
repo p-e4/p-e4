@@ -18,8 +18,9 @@
 
 <!--Subtext-->
 <h5>
-  A programming enthusiast and someone who loves chess. On my free-time I am probably either theorizing about games or studying japanese; 
-  <br> Regardless you'll probably find me withing a meter the closest pc.
+  About me:
+  I like python, and data analysis and On my free-time I play chess and league of legends.
+  I often implement my hobbies into my coding projects. Often using RiotAPI, or raw.communitydragon for league of legends related data!
 </h5>
 
 <!--Languages-->
